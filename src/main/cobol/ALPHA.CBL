@@ -1,7 +1,7 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID.  ALPHA.
       *****************************************************************
-      * Program to exercise EXPECT statements.
+      * TESTE
       *****************************************************************       
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
