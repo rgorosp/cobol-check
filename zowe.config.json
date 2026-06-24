@@ -1,0 +1,10 @@
+{
+    "profiles": {
+        "base": {
+            "properties": {
+                "rejectUnauthorized": false
+            }
+        }
+    },
+    "defaults": {}
+}
